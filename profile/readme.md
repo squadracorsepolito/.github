@@ -6,8 +6,7 @@
   <h1>Squadra Corse</h1>
 </div>
 
-Welcome to our software (and sometimes hardware) GitHub organization. Feel free
-to look around. 👋
+Welcome to our software and hardware GitHub organization. Feel free to look around. 👋
 
 Some helpful links:
 
